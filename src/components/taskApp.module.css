@@ -1,3 +1,10 @@
 .taskApp {
   /* Sample */
+  height: 800px;
+  width: 500px;
+  border: 1px solid black;
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 100px;
+  border-radius: 15px;
 }

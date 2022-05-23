@@ -1,3 +1,5 @@
 .task {
   /* Sample  */
+  list-style: none;
+  display: flex;
 }
